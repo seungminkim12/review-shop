@@ -39,10 +39,10 @@
 	</bean>
 	
 	<!-- 패키지 -->
-	<context:component-scan base-package="com.test.domain" />
-	<context:component-scan base-package="com.test.service" />
-	<context:component-scan base-package="com.test.persistence" />
-	<context:component-scan base-package="com.test.utils" />
+	<context:component-scan base-package="com.reviewshop.domain" />
+	<context:component-scan base-package="com.reviewshop.service" />
+	<context:component-scan base-package="com.reviewshop.persistence" />
+	<context:component-scan base-package="com.reviewshop.utils" />
 	
 			
 </beans>
