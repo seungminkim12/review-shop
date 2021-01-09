@@ -27,8 +27,8 @@
 				  </div>
 				  
 				  <div class="input_area">
-				   <label for="userPhon">연락처</label>
-				   <input type="text" id="userPhon" name="userPhon" placeholder="연락처를 입력해주세요" required="required" />      
+				   <label for="userPhone">연락처</label>
+				   <input type="text" id="userPhone" name="userPhone" placeholder="연락처를 입력해주세요" required="required" />      
 				  </div>
 				  
 				  <button type="submit" id="signup_btn" name="signup_btn">회원가입</button>
